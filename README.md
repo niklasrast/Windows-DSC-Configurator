@@ -1,5 +1,11 @@
 # Desired State Configuration
 
+![GitHub repo size](https://img.shields.io/github/repo-size/niklasrast/Windows-10-DSC-Configurator)
+
+![GitHub issues](https://img.shields.io/github/issues-raw/niklasrast/Windows-10-DSC-Configurator)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/niklasrast/Windows-10-DSC-Configurator)
+
 This repo contains an powershell scripts to deploy an DSC through Powershell to an Windows 10 client.
 
 ## Install:
