@@ -1,4 +1,17 @@
-﻿
+﻿<#
+    .SYNOPSIS 
+    Windows OpenBIOS Configurator
+
+    .DESCRIPTION
+    Install:   PowerShell.exe -ExecutionPolicy Bypass -Command .\BIOSConfigurator.ps1
+
+    .ENVIRONMENT
+    PowerShell 5.0
+
+    .AUTHOR
+    Niklas Rast
+#>
+
 Configuration DSCFromGPO
 {
 
